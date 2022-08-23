@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaStudyProject.iml" filepath="$PROJECT_DIR$/.idea/JavaStudyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/votingsystem/votingsystem.iml" filepath="$PROJECT_DIR$/votingsystem/votingsystem.iml" />
     </modules>
   </component>
 </project>
