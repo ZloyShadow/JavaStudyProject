@@ -3,7 +3,7 @@ This is Study project for JavaOps we will try to implement it.
 Technology stack:
 
 
-	Java 8 + Spring Boot + H2DB
+	Java 8 + Spring Boot + HSQLDB
 ## Task
 Design and implement a REST API using Hibernate/Spring/SpringMVC (or Spring-Boot) **without frontend**.
 
